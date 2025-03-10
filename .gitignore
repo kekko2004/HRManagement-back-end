@@ -1,0 +1,18 @@
+# Backend (Spring Boot)
+target/
+*.log
+*.jar
+*.war
+*.iml
+.env
+application.properties
+application.yml
+
+# Frontend (Vue, React, Angular, ecc.)
+node_modules/
+dist/
+*.env
+
+# Sistema
+.DS_Store
+Thumbs.db

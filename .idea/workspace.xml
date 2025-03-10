@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45ce78f9-6a4e-4faa-8ce1-91afceab15b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Login/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/main/java/com/api/login/LoginApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/main/java/com/api/login/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/main/java/com/api/login/model/EmployeeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/main/java/com/api/login/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/main/java/com/api/login/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/src/test/java/com/api/login/LoginApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/Configuration/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/DTO/HumanResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/EmployeeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/entity/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/api/employee/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/test/java/com/api/employee/EmployeeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/src/main/java/com/api/humanresource/Configuration/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/src/main/java/com/api/humanresource/Entity/HumanResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/src/main/java/com/api/humanresource/HumanResourceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/src/main/java/com/api/humanresource/repository/HumanResourceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/src/main/java/com/api/humanresource/service/HumanResourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanResource/src/test/java/com/api/humanresource/HumanResourceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Login" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tG9LtvrQoZSCTCfAhrezl9vDPG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EmployeeApplication.executor": "Run",
+    "Spring Boot.HumanResourceApplication.executor": "Run",
+    "Spring Boot.LoginApplication.executor": "Run",
+    "Spring Boot.MailVerifyApplication (1).executor": "Run",
+    "Spring Boot.MailVerifyApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/KEKKO/Desktop/java_and_spring/HRManagement",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HumanResourceApplication">
+    <configuration name="EmployeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employee" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.employee.EmployeeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="humanResource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.humanresource.HumanResourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.login.LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailVerifyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="MailVerify" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.MailVerify.MailVerifyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ce78f9-6a4e-4faa-8ce1-91afceab15b9" name="Changes" comment="" />
+      <created>1739967491869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739967491869</updated>
+      <workItem from="1739967493065" duration="6058000" />
+      <workItem from="1740079726657" duration="12414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
