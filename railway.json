@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "nixpacks",
+    "buildCommand": "cd login && ./mvnw clean install",
+    "startCommand": "java -jar login/target/*.jar"
+  }
+}
